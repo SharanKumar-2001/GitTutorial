@@ -1,0 +1,17 @@
+-------Git Commands-------
+
+Git is a version control system.
+
+COMMANDS:-
+
+---> git init
+---> git status
+---> git add filename (for adding a file from working directory to staging area)
+---> git commit (it is for moving the file from staging area to local repository)
+   > git commit -m "here we give the message" (This is also but here we give the message to 
+     the user)
+---> git push -u origin master/main (this command is used to move the file from local to remote repository, 
+          Here master/main are the branches, the branches command is "git branches")
+
+  
+
